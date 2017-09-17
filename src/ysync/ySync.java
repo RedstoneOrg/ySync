@@ -1,4 +1,4 @@
-package slice.brasil.ysync;
+package ysync;
 
 public abstract class ySync {
 
